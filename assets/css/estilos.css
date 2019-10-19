@@ -26,7 +26,6 @@
 }
 
 body {
-    overflow-y:hidden;
     overflow-x:hidden;
 }
 
@@ -66,4 +65,18 @@ body {
 
 text-faq h2 {
     font-family: 'Russo One', sans-serif;
+}
+
+/*Planetas*/
+.planets-page section .card {
+    padding:20px 5px;
+}
+
+.planets-page {
+    margin-top:180px;
+}
+
+/* Menu */
+#mainNav {
+    background:rgba(0,0,0,.6);
 }
